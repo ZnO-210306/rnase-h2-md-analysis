@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the analysis code."
+title: "RNase H2–DNA molecular dynamics analysis code"
+version: 1.0.0
+date-released: 2026-11-18
+type: software
+authors:
+  - family-names: Chen
+    given-names: Xinyang
+    affiliation: University of Science and Technology of China
+    orcid: "https://orcid.org/0009-0009-6898-8549"
+  - family-names: Wu
+    given-names: Yihan
+    affiliation: University of Science and Technology of China
+license: MIT
+doi: 10.5281/zenodo.24318628
+repository-code: "https://github.com/ZnO-210306/rnase-h2-md-analysis"

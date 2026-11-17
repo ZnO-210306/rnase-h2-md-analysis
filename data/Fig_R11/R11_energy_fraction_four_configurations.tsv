@@ -1,0 +1,5 @@
+display_label	source_label	status	n_frames	time_start_ps	time_end_ps	IDR_total_mean	nonIDR_total_mean	IDR_abs_fraction_from_means	IDR_percent	IDR_frame_abs_fraction_mean	IDR_frame_percent_mean	note
+relaxed-positioned	M3_runmd	ok	1001	0	10000	-724.88064	-189.57706	0.79268909	79.2689	0.80173606	80.1736	ok
+tensioned-positioned	M3_str_runmd	ok	1001	0	10000	-592.59854	-280.59026	0.67866026	67.8660	0.69293776	69.2938	ok
+relaxed	orig_relaxed_w001_prod	ok	1001	0	10000	-814.54665	-1832.8371	0.30767985	30.7680	0.30720144	30.7201	ok
+tensioned	orig_tensioned_w001_prod	ok	1001	0	10000	-1077.3843	-1604.5933	0.40171265	40.1713	0.40062197	40.0622	ok

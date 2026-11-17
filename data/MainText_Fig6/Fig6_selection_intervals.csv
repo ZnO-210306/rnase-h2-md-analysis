@@ -1,0 +1,43 @@
+﻿condition,replica_id,metric,processed_intervals_ns,retained_intervals_ns,data_file
+WT relaxed,1,contacts,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_WT_relaxed_rep01_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+WT relaxed,2,contacts,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_WT_relaxed_rep02_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+WT relaxed,3,contacts,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_WT_relaxed_rep03_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+WT relaxed,1,hbnum,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_WT_relaxed_rep01_hydrogen_bonds_processed_frames_and_selection.csv
+WT relaxed,2,hbnum,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_WT_relaxed_rep02_hydrogen_bonds_processed_frames_and_selection.csv
+WT relaxed,3,hbnum,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_WT_relaxed_rep03_hydrogen_bonds_processed_frames_and_selection.csv
+WT relaxed,1,interaction_energy,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_WT_relaxed_rep01_short_range_energy_processed_frames_and_selection.csv
+WT relaxed,2,interaction_energy,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_WT_relaxed_rep02_short_range_energy_processed_frames_and_selection.csv
+WT relaxed,3,interaction_energy,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_WT_relaxed_rep03_short_range_energy_processed_frames_and_selection.csv
+WT tensioned,1,contacts,"[[0.0, 10.0, 1001]]","[[2.0, 10.0, 801]]",Fig6_WT_tensioned_rep01_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+WT tensioned,2,contacts,"[[0.0, 7.49, 750]]","[[1.5, 7.49, 600]]",Fig6_WT_tensioned_rep02_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+WT tensioned,4,contacts,"[[0.0, 11.99, 1200]]","[[2.4, 11.99, 960]]",Fig6_WT_tensioned_rep04_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+WT tensioned,1,hbnum,"[[0.0, 14.49, 1450]]","[[2.9, 14.49, 1160]]",Fig6_WT_tensioned_rep01_hydrogen_bonds_processed_frames_and_selection.csv
+WT tensioned,2,hbnum,"[[0.0, 7.49, 750]]","[[1.5, 7.49, 600]]",Fig6_WT_tensioned_rep02_hydrogen_bonds_processed_frames_and_selection.csv
+WT tensioned,4,hbnum,"[[0.0, 11.99, 1200]]","[[2.4, 11.99, 960]]",Fig6_WT_tensioned_rep04_hydrogen_bonds_processed_frames_and_selection.csv
+WT tensioned,1,interaction_energy,"[[0.0, 14.49, 1450]]","[[2.9, 14.49, 1160]]",Fig6_WT_tensioned_rep01_short_range_energy_processed_frames_and_selection.csv
+WT tensioned,2,interaction_energy,"[[0.0, 7.49, 750]]","[[1.5, 7.49, 600]]",Fig6_WT_tensioned_rep02_short_range_energy_processed_frames_and_selection.csv
+WT tensioned,4,interaction_energy,"[[0.0, 11.99, 1200]]","[[2.4, 11.99, 960]]",Fig6_WT_tensioned_rep04_short_range_energy_processed_frames_and_selection.csv
+11KA relaxed,4,contacts,"[[2.01, 12.49, 1049], [14.01, 20.0, 600]]","[[5.3, 12.49, 720], [14.01, 20.0, 600]]",Fig6_11KA_relaxed_rep04_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+11KA relaxed,5,contacts,"[[7.51, 20.0, 1250]]","[[10.01, 20.0, 1000]]",Fig6_11KA_relaxed_rep05_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+11KA relaxed,6,contacts,"[[1.01, 7.49, 649], [13.51, 20.0, 650]]","[[3.6, 7.49, 390], [13.51, 20.0, 650]]",Fig6_11KA_relaxed_rep06_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+11KA relaxed,9,contacts,"[[0.0, 5.99, 600], [16.51, 20.0, 350]]","[[1.9, 5.99, 410], [16.51, 20.0, 350]]",Fig6_11KA_relaxed_rep09_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+11KA relaxed,4,hbnum,"[[2.01, 12.49, 1049], [14.01, 20.0, 600]]","[[5.3, 12.49, 720], [14.01, 20.0, 600]]",Fig6_11KA_relaxed_rep04_hydrogen_bonds_processed_frames_and_selection.csv
+11KA relaxed,5,hbnum,"[[7.51, 20.0, 1250]]","[[10.01, 20.0, 1000]]",Fig6_11KA_relaxed_rep05_hydrogen_bonds_processed_frames_and_selection.csv
+11KA relaxed,6,hbnum,"[[1.01, 7.49, 649], [13.51, 20.0, 650]]","[[3.6, 7.49, 390], [13.51, 20.0, 650]]",Fig6_11KA_relaxed_rep06_hydrogen_bonds_processed_frames_and_selection.csv
+11KA relaxed,9,hbnum,"[[0.0, 5.99, 600], [16.51, 20.0, 350]]","[[1.9, 5.99, 410], [16.51, 20.0, 350]]",Fig6_11KA_relaxed_rep09_hydrogen_bonds_processed_frames_and_selection.csv
+11KA relaxed,4,interaction_energy,"[[2.01, 12.49, 1049], [14.01, 20.0, 600]]","[[5.3, 12.49, 720], [14.01, 20.0, 600]]",Fig6_11KA_relaxed_rep04_short_range_energy_processed_frames_and_selection.csv
+11KA relaxed,5,interaction_energy,"[[7.51, 20.0, 1250]]","[[10.01, 20.0, 1000]]",Fig6_11KA_relaxed_rep05_short_range_energy_processed_frames_and_selection.csv
+11KA relaxed,6,interaction_energy,"[[1.01, 7.49, 649], [13.51, 20.0, 650]]","[[3.6, 7.49, 390], [13.51, 20.0, 650]]",Fig6_11KA_relaxed_rep06_short_range_energy_processed_frames_and_selection.csv
+11KA relaxed,9,interaction_energy,"[[0.0, 5.99, 600], [16.51, 20.0, 350]]","[[1.9, 5.99, 410], [16.51, 20.0, 350]]",Fig6_11KA_relaxed_rep09_short_range_energy_processed_frames_and_selection.csv
+11KA tensioned,2,contacts,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep02_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+11KA tensioned,3,contacts,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep03_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+11KA tensioned,5,contacts,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep05_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+11KA tensioned,7,contacts,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep07_contacts_cutoff0p6nm_processed_frames_and_selection.csv
+11KA tensioned,2,hbnum,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep02_hydrogen_bonds_processed_frames_and_selection.csv
+11KA tensioned,3,hbnum,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep03_hydrogen_bonds_processed_frames_and_selection.csv
+11KA tensioned,5,hbnum,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep05_hydrogen_bonds_processed_frames_and_selection.csv
+11KA tensioned,7,hbnum,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep07_hydrogen_bonds_processed_frames_and_selection.csv
+11KA tensioned,2,interaction_energy,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep02_short_range_energy_processed_frames_and_selection.csv
+11KA tensioned,3,interaction_energy,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep03_short_range_energy_processed_frames_and_selection.csv
+11KA tensioned,5,interaction_energy,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep05_short_range_energy_processed_frames_and_selection.csv
+11KA tensioned,7,interaction_energy,"[[0.0, 20.0, 2001]]","[[4.0, 20.0, 1601]]",Fig6_11KA_tensioned_rep07_short_range_energy_processed_frames_and_selection.csv

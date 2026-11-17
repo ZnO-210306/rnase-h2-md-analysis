@@ -1,0 +1,20 @@
+[
+  {
+    "analysis": "replica statistics",
+    "series": 42
+  },
+  {
+    "analysis": "energy fractions",
+    "configurations": 4
+  },
+  {
+    "analysis": "contacts",
+    "frames": 5001,
+    "blocks": 10
+  },
+  {
+    "analysis": "hydrogen_bonds",
+    "frames": 5001,
+    "blocks": 10
+  }
+]
