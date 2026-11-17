@@ -5,7 +5,7 @@ Python programs for analysing RNase H2–DNA molecular dynamics data under relax
 ## Authors
 
 1. Xinyang Chen — University of Science and Technology of China; ORCID: https://orcid.org/0009-0009-6898-8549
-2. Yihan Wu — University of Science and Technology of China
+2. Yihan Wu — University of Science and Technology of China; ORCID: https://orcid.org/0009-0004-5865-1639
 
 ## Installation
 
@@ -82,10 +82,10 @@ Window-distribution plots pool both conditions to calculate the 0.001 and 0.999 
 
 ## Citation and license
 
-Chen, Xinyang, and Wu, Yihan (2026). RNase H2–DNA molecular dynamics analysis code (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24318628
+Chen, Xinyang, and Wu, Yihan (2026). RNase H2–DNA molecular dynamics analysis code (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.24318628
 
 The GitHub repository is https://github.com/ZnO-210306/rnase-h2-md-analysis. Machine-readable citation metadata are provided in `CITATION.cff`. The code is distributed under the MIT License.
 
 ## Release validation
 
-Version 1.0.0 was tested with Python 3.12.14, NumPy 2.3.5 and Matplotlib 3.11.0. Recomputed replica statistics, energy fractions, time-window means and moving averages agree with the supplied reference tables. Fresh WHAM solutions reached an offset-update tolerance of 1e-7 in 4,045 iterations for relaxed DNA and 3,789 iterations for tensioned DNA. All eight recomputed PMF profiles matched the supplied numerical profiles point by point. Numerical check results are stored in `validation/`.
+The analysis code was tested with Python 3.12.14, NumPy 2.3.5 and Matplotlib 3.11.0. Recomputed replica statistics, energy fractions, time-window means and moving averages agree with the supplied reference tables. Fresh WHAM solutions reached an offset-update tolerance of 1e-7 in 4,045 iterations for relaxed DNA and 3,789 iterations for tensioned DNA. All eight recomputed PMF profiles matched the supplied numerical profiles point by point. Numerical check results are stored in `validation/`.
